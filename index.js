@@ -122,7 +122,6 @@ Client.on("message", message => {
 
 
 
+Client.login(process.env.TOKEN);
 
 
-
-Client.login("Nzk3MjIzMDkxNzEzMjEyNDQ3.X_jV3A.Ui4-CW6vF591xs6pwAgRJWIhVj8");
